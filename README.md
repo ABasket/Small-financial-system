@@ -1,2 +1,0 @@
-# Small-financial-system
-react
